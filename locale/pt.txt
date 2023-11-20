@@ -70,6 +70,9 @@ Button_C154DD67_ED64_6B83_41D0_62FA53DC4620.label = Agendar Consulta
 Button_DFB28045_ED1C_9984_41ED_7A0508C1E73A.label = Agendar consulta
 Button_DDA0E0C0_ED6C_7AFD_41B7_455F5624CCC4.label = Visitar SITE
 
+### Dropdown
+DropDown_F5F03700_EE88_EF2E_41DD_43FF4FD3082C.label = Lista de Ambientes
+
 ### Image
 Image_C04F6A22_ED6C_A9BC_41C3_E9C59BC3D2D1.url = skin/Image_C04F6A22_ED6C_A9BC_41C3_E9C59BC3D2D1_pt.png
 Image_C1543D67_ED64_6B83_41C1_75E2D734CA97.url = skin/Image_C1543D67_ED64_6B83_41C1_75E2D734CA97_pt.png
@@ -77,6 +80,9 @@ Image_DDAF40C0_ED6C_7AFD_41E5_A4968D9162C4.url = skin/Image_DDAF40C0_ED6C_7AFD_4
 Image_FB67D385_EE98_2737_41ED_B3B4019AB3F4.url = skin/Image_FB67D385_EE98_2737_41ED_B3B4019AB3F4_pt.png
 Image_FDD46DB3_EE8B_E352_41C7_07D0B03C3424.url = skin/Image_FDD46DB3_EE8B_E352_41C7_07D0B03C3424_pt.png
 Image_FDD49DB3_EE8B_E352_41E0_43542838CEE1.url = skin/Image_FDD49DB3_EE8B_E352_41E0_43542838CEE1_pt.png
+
+### Label
+Label_F247313E_EE98_2352_41EB_DB9B6163344A.text = Clinvet
 
 ### Multiline Text
 HTMLText_DDAF00C0_ED6C_7AFD_41EA_CE45FBD3AEEA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.209840810419682vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.21vh;font-family:'Bebas Neue Bold';">Nossos Serviços</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4800000000000013vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;font-family:'Bebas Neue Bold';">Clique no botão abaixo e tenha mais detalhes sobre nossos serviços no site principal</SPAN></SPAN></DIV></div>
